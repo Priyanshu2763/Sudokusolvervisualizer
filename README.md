@@ -1,7 +1,18 @@
 // # Sudokusolvervisualizer
 //Visualizes the sudoku solver code with help of SWING
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
 
-
+..
+.
 import javax.swing.*;
 import java.awt.*;
 import java.util.Random;
